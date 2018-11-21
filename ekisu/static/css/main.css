@@ -1,0 +1,58 @@
+h1 a{
+    color: #FCA205;
+}
+.inputBody{
+    float:left;
+    position:relative;
+}
+.outputBody{
+    float:right;
+}
+.translateButton{
+    position:absolute;
+    border: 0;
+    outline: 0;
+    width: 100px;
+    height: 55px;
+    bottom:0px;
+    right:0px;
+    font-size:15px;
+    color:#fff;
+    background-color:#37b328;
+    border-radius: 2px;
+}
+.Textarea{
+    outline: none;
+    padding-left:15px;
+    font-size:18px;
+    line-height:30px;
+    height:500px;
+    width:800px;
+  /*font-family:'Open Sans bold';*/
+}
+.ratioSelect{
+    padding:15px;
+    outline: none;
+    width: 200px;
+    font-size: 17px;
+    color:#3f3f3f;
+    border: 1px solid #fff;
+}
+.copyButton{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom:0px;
+    left:0px;
+}
+.logo{
+    width: 270px;
+    height: 90px;
+}
+.info{
+    text-align:center;
+    font-size:15px;
+    color:#d3d3d3;
+    bottom:10px;
+    margin:auto;
+}
