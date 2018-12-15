@@ -2,12 +2,11 @@
 * 영어 본문 번역 & 요약 웹 서비스
 * English-To-Korean Translate & Summarize WebService
 
-------------
-
 ## 소개(Intro)
 * 긴 영어 본문을 번역하고 요약하는 서비스를 제공하는 웹 프로젝트입니다.
 * 바쁜 시험기간 수십페이지에 달하는 영어 원서를 읽어야 하는 대학생부터, 빨리 요약해서 읽고 일해야하는 직장인까지!
 * 저희 엑기스를 통해 긴 영어 본문을 빠르게 이해해보세요.
+
 * Ekisu is a project translate & summarize huge mount of english text.
 * Ekisu's service targets are college students who have to read long english text in a short term, and anyone who wants to read english text shortly.
 * You can read & understand long english text rapidly using our service, Ekisu.
